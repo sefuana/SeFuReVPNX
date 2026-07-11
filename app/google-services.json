@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "984390602094",
+    "firebase_url": "https://sefure-ec152-default-rtdb.firebaseio.com",
+    "project_id": "sefure-ec152",
+    "storage_bucket": "sefure-ec152.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984390602094:android:e13d1b9f24992cbd3d057f",
+        "android_client_info": {
+          "package_name": "com.sefure.vpn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD6CCvh-GtvBYSygPovUU9sZA3Q2WqUIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
